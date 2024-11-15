@@ -6,4 +6,4 @@ There are a number of ways to set up a CI/CD pattern at your discretion:
  - API
  - Terraform (convenient IaaS that leverages the extensive API)
 
-***There are opinionated ways of achieving CI/CD and it's up to your team to determine the 'right' way.***
+**There are opinionated ways of achieving CI/CD and it's up to your team to determine the 'right' way.**
