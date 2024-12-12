@@ -9,3 +9,5 @@ There are a number of ways to set up a CI/CD pattern at your discretion:
 ***There are opinionated ways of achieving CI/CD and it's up to your team to determine the 'right' way.***
 
 Adding some more details here....
+
+Within the console
